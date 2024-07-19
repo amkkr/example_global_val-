@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/yakuratenshin/repos/note/c/example_global_val/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/test.dir/main.c.o -c /Users/yakuratenshin/repos/note/c/example_global_val/main.c",
+  "file": "/Users/yakuratenshin/repos/note/c/example_global_val/main.c",
+  "output": "CMakeFiles/test.dir/main.c.o"
+},
+{
+  "directory": "/Users/yakuratenshin/repos/note/c/example_global_val/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/test.dir/hoge/hoge.c.o -c /Users/yakuratenshin/repos/note/c/example_global_val/hoge/hoge.c",
+  "file": "/Users/yakuratenshin/repos/note/c/example_global_val/hoge/hoge.c",
+  "output": "CMakeFiles/test.dir/hoge/hoge.c.o"
+}
+]

@@ -1,0 +1,5 @@
+/Users/yakuratenshin/repos/note/c/example_global_val/build/CMakeFiles/test.dir
+/Users/yakuratenshin/repos/note/c/example_global_val/build/CMakeFiles/package.dir
+/Users/yakuratenshin/repos/note/c/example_global_val/build/CMakeFiles/package_source.dir
+/Users/yakuratenshin/repos/note/c/example_global_val/build/CMakeFiles/edit_cache.dir
+/Users/yakuratenshin/repos/note/c/example_global_val/build/CMakeFiles/rebuild_cache.dir
